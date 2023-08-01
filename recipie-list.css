@@ -1,0 +1,14 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+.description{
+    display: block;
+    width: 400px;
+}
+.continer{
+    display: flex;
+}
+.recipie-list{
+    margin-left: 25%;
+}
